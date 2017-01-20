@@ -1,0 +1,36 @@
+{
+  "name": "diplom",
+  "title": "",
+  "version": "",
+  "homepage": "",
+  "author": "",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-header": "^1.8.7",
+    "gulp-jshint": "^2.0.4",
+    "gulp-less": "^3.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "jquery": "^1.11.3",
+    "jshint": "^2.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chance-cli": "^1.0.6",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "node-uuid": "^1.4.7",
+    "nodejs-microdb": "0.0.2",
+    "nodemailer": "^2.7.0"
+  }
+}
